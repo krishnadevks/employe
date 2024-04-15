@@ -1,0 +1,75 @@
+{
+ "student" : [
+{
+    "id": "1",
+    "sname": "Johnson",
+    "sage": 23,
+    "sphone": 9867504938,
+    "sdept": "Bsc cs"
+},
+{
+    "id": "2",
+    "sname": "Jackson",
+    "sage": 22,
+    "sphone": 9677504938,
+    "sdept": "Bsc cs"
+},
+{
+    "id": "3",
+    "sname": "Johon",
+    "sage": 24,
+    "sphone": 9567504938,
+    "sdept": "Bca"
+},
+{
+    "id": "4",
+    "sname": "manu",
+    "sage": 24,
+    "sphone": 9566504938,
+    "sdept": "Bca"
+},
+{
+    "id": "5",
+    "sname": "Jose",
+    "sage": 25,
+    "sphone": 8567504938,
+    "sdept": "Bca"
+},
+{
+    "id": "6",
+    "sname": "prince",
+    "sage": 22,
+    "sphone": 7567504938,
+    "sdept": "Bcom"
+},
+{
+    "id": "7",
+    "sname": "aaron",
+    "sage": 21,
+    "sphone": 7667504938,
+    "sdept": "Bca"
+},
+{
+    "id": "8",
+    "sname": "aswin",
+    "sage": 22,
+    "sphone": 8867504938,
+    "sdept": "Bsc cs"
+},
+{
+    "id": "9",
+    "sname": "sona",
+    "sage": 23,
+    "sphone": 8567504938,
+    "sdept": "Bca"
+},
+{
+    "id": "10",
+    "sname": "Jostena",
+    "sage": 20,
+    "sphone": 8567584938,
+    "sdept": "Bca"
+}
+]
+
+}
